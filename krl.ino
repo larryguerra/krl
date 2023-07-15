@@ -2,9 +2,9 @@
 #include <WebServer.h>
 #include <SPIFFS.h>
 
-#include "script_js.h"
-#include "style_css.h"
-#include "index_html.h"
+#include "script.h"
+#include "style.h"
+#include "index.h"
 #include "imagenes.h"
 
 #define LED 2 
